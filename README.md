@@ -67,4 +67,3 @@ All in all, this was a great opportunity to practice and improve my coding skill
 
 - Website - [Aleksandar Đurović](https://aleksandardjurovic.netlify.app/)
 - Frontend Mentor - [@DjurovicAleksandar](https://www.frontendmentor.io/profile/DjurovicAleksandar)
-- Linkedin- [](https://www.linkedin.com/in/djuraleksandar/)
