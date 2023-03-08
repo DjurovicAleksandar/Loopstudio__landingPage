@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/DjurovicAleksandar/Loopstudio\_\_landingPage](https://your-solution-url.com)
-- Live Site URL: [https://djurovicaleksandar.github.io/Loopstudio\_\_landingPage/](https://your-live-site-url.com)
+- Live Site URL: https://djurovicaleksandar.github.io/Loopstudio__landingPage/
+- Solution URL: https://github.com/DjurovicAleksandar/Loopstudio__landingPage/
 
 ## My process
 
